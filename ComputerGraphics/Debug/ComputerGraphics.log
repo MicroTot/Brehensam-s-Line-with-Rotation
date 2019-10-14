@@ -1,0 +1,14 @@
+﻿  Source.cpp
+C:\Users\Mercy\OneDrive\Desktop\Assignments\ComputerGraphics\Source.cpp(7,15): warning C4305:  'initializing': truncation from 'double' to 'float'
+C:\Users\Mercy\OneDrive\Desktop\Assignments\ComputerGraphics\Source.cpp(8,15): warning C4305:  'initializing': truncation from 'double' to 'float'
+C:\Users\Mercy\OneDrive\Desktop\Assignments\ComputerGraphics\Source.cpp(20,19): warning C4244:  'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Mercy\OneDrive\Desktop\Assignments\ComputerGraphics\Source.cpp(21,21): warning C4244:  'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Mercy\OneDrive\Desktop\Assignments\ComputerGraphics\Source.cpp(21,16): warning C4244:  'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Mercy\OneDrive\Desktop\Assignments\ComputerGraphics\Source.cpp(28,20): warning C4244:  'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Mercy\OneDrive\Desktop\Assignments\ComputerGraphics\Source.cpp(29,21): warning C4244:  'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Mercy\OneDrive\Desktop\Assignments\ComputerGraphics\Source.cpp(29,16): warning C4244:  'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Mercy\OneDrive\Desktop\Assignments\ComputerGraphics\Source.cpp(82,27): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mercy\OneDrive\Desktop\Assignments\ComputerGraphics\Source.cpp(82,23): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mercy\OneDrive\Desktop\Assignments\ComputerGraphics\Source.cpp(82,19): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mercy\OneDrive\Desktop\Assignments\ComputerGraphics\Source.cpp(82,15): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+  ComputerGraphics.vcxproj -> C:\Users\Mercy\OneDrive\Desktop\Assignments\ComputerGraphics\Debug\ComputerGraphics.exe
